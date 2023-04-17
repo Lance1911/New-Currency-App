@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.innovationmvvmtest.MainActivity">
+
+    <item
+        android:id="@+id/converter_screen"
+        android:icon="@drawable/ic_converter"
+        android:title="@string/converter_menu_label"/>
+
+    <item
+        android:id="@+id/currency_rate_screen"
+        android:icon="@drawable/ic_rates"
+        android:title="@string/rates_menu_label"/>
+</menu>
